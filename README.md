@@ -2,7 +2,8 @@
 
 ### About Me
 - 👨‍💻 **Gianluca Cherubini** a.k.a. *nightshifter75*
-- 💾 **Computer Enthusiast Since 1985** 🕹️
+- 👶🏻 **Born in 1975** 👩🏻‍🍼
+- 💾 **Computer and videogames enthusiast Since 1985** 🕹️
 - 🎵 **Guitar, Bass and Theorbo Player Since 1990** 🎸
 - 🎲 **Dungeon Master Since 1990** 🐉
 - 🎬 **Cinephile & Series Addict** 🎞️
