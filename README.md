@@ -12,9 +12,10 @@
 
 ### 📚 My Learning Journey
 *Currently organizing my studies into dedicated repositories:*
-- [ ] 📖 [Red Hat Enterprise Linux 10] - **Done!**
-- [ ] 📖 [Ansible Automation Platform 2.6] - *In Progress*
+- [ ] 📖 [Red Hat Enterprise Linux] - **Done!**
+- [ ] 📖 [Ansible Automation Platform] - *In Progress*
 - [ ] 📖 [OpenShift Container Platform] - *Coming soon*
+- [ ] 📖 [Electric Bass] - *In Progress*
 
 ---
 *"Digital by choice, Musician by soul, Caffeine by necessity."*
