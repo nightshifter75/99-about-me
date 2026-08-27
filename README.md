@@ -45,6 +45,15 @@
 
 ---
 
+## Who Am I?
+
 ![Infografica](img/infografica/about-me.png)
-![Infografica](img/infografica/about-me-update.png)
+![Infografica](img/infografica/about-me-theorbo.png)
+
+## Updates
+
+![Infografica](img/infografica/about-me-updates.png)
+
+
+
 ![Infografica](img/infografica/about-me-theorbo.png)
