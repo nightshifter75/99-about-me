@@ -43,3 +43,9 @@
 
 ---
 *"Digital by choice, Musician by soul, Caffeine by necessity."*
+
+---
+![Infografica](img/infografica/about-me-update.png)
+![Infografica](img/infografica/about-me-theorbo.png)
+
+
