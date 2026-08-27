@@ -52,8 +52,4 @@
 
 ## Updates
 
-![Infografica](img/infografica/about-me-updates.png)
-
-
-
-![Infografica](img/infografica/about-me-theorbo.png)
+![Infografica](img/infografica/about-me-update.png)
