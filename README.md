@@ -39,7 +39,7 @@
 - [ ] 📖 [OpenShift Container Platform] - *Coming soon*
 - [ ] 📖 [Electric Bass] - *In Progress*
 
-[INFOGRAFICA]
+![Infografica](img/infografica/about-me.png)
 
 ---
 *"Digital by choice, Musician by soul, Caffeine by necessity."*
