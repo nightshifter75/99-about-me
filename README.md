@@ -39,13 +39,12 @@
 - [ ] 📖 [OpenShift Container Platform] - *Coming soon*
 - [ ] 📖 [Electric Bass] - *In Progress*
 
-![Infografica](img/infografica/about-me.png)
-
 ---
+
 *"Digital by choice, Musician by soul, Caffeine by necessity."*
 
 ---
+
+![Infografica](img/infografica/about-me.png)
 ![Infografica](img/infografica/about-me-update.png)
 ![Infografica](img/infografica/about-me-theorbo.png)
-
-
