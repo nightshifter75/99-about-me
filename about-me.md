@@ -1,6 +1,6 @@
 # About me
 
-![Infografica](img/infografica/about-me.png)
-![Infografica](img/infografica/about-me-the-bassist.png)
-![Infografica](img/infografica/about-me-the-it-guy.png)
-![Infografica](img/infografica/about-me-the-bard.png)
+![Infografica](img/infografica/about-me.jpg)
+![Infografica](img/infografica/about-me-the-bassist.jpg)
+![Infografica](img/infografica/about-me-the-it-guy.jpg)
+![Infografica](img/infografica/about-me-the-bard.jpg)
