@@ -15,10 +15,10 @@
 ---
 
 ### My Computer Setup 🤖
-- 👨‍💻 **MacBook Air 13" M5 with macOS 26.6 working since 2026-03-20 16:09:26**
-- 🖥️ **MacStudio M1 Max with macOS 26.6 working since 2026-05-05 18:56:07**
-- 💻 **Dell 14 DC14250 with RHEL 10.2 Workstation working since 2026-06-17 13:00:06**
-- 🖥️ **Commodore64x PC with RHEL 9.8 Server working since 2026-05-27 14:31:11**
+- 👨‍💻 **MacBook Air 13" M5 working since 2026-03-20 16:09:26**
+- 🖥️ **MacStudio M1 Max with working since 2026-05-05 18:56:07**
+- 💻 **Dell 14 DC14250 with RHEL Workstation working since 2026-06-17 13:00:06**
+- 🖥️ **Commodore64x PC with RHEL Server working since 2026-05-27 14:31:11**
 - 🎮 **PS5 Pro**
 - ⌨️ **Mega65**
 
