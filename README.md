@@ -19,8 +19,8 @@
 - 🖥️ **MacStudio M1 Max with working since 2026-05-05 18:56:07**
 - 💻 **Dell 14 DC14250 with RHEL Workstation working since 2026-06-17 13:00:06**
 - 🖥️ **Commodore64x PC with RHEL Server working since 2026-05-27 14:31:11**
-- 🎮 **PS5 Pro**
-- ⌨️ **Mega65**
+- 🎮 **PS5 Pro working since 2024-11-07 10:22**
+- ⌨️ **Mega65 working since 2026-02-10 18:15**
 
 ### My Music Setup 🎸
 - **Fender Classic Vibe Active 70s Jazz Bass 5 strings (Ocean Turquoise) since 2026-08-08**
