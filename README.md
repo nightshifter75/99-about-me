@@ -44,3 +44,6 @@
 *"Digital by choice, Musician by soul, Caffeine by necessity."*
 
 ---
+
+![About Me](img/about-me.jpg)
+
