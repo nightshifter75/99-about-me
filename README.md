@@ -17,6 +17,7 @@
 ### My Computer Setup 🤖
 - 👨‍💻 **MacBook Air 13" M5 working since 2026-03-20 16:09:26**
 - 🖥️ **MacStudio M1 Max with working since 2026-05-05 18:56:07**
+- 🖥️ **MacStudio M5 Max with working since 2026-09-22 14:00:00**
 - 💻 **Dell 14 DC14250 with RHEL Workstation working since 2026-06-17 13:00:06**
 - 🖥️ **Commodore64x PC with RHEL Server working since 2026-05-27 14:31:11**
 - 🎮 **PS5 Pro working since 2024-11-07 10:22**
