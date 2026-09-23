@@ -1,5 +1,8 @@
 # Updates
 
+## September, 22nd, 2026
+![Mac Studio M5 Max siverfive](img/mac-studio-m5-max-silverfive-2026-09-22.jpg)
+
 ## September, 15th, 2026
 ![Updayte](img/updayte-2026-09-15.jpg)
 
