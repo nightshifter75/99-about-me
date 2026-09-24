@@ -11,7 +11,7 @@
 - ☕ **Powered by Coffee** ☕ *(Day begins after the first espresso)*
 
 ## My Computer Setup 🤖
-- 💻 **MacBook Air 13" M5 working since 2026-03-20
+- 💻 **MacBook Air 13" M5 working since 2026-03-20**
 - 🖥️ **MacStudio M1 Max working since 2026-05-05**
 - 🖥️ **MacStudio M5 Max working since 2026-09-22**
 - 💻 **Dell 14 DC14250 with RHEL Workstation working since 2026-06-17**
