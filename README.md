@@ -15,7 +15,7 @@
 - 🖥️ **MacStudio M1 Max working since 2026-05-05**
 - 🖥️ **MacStudio M5 Max working since 2026-09-22**
 - 💻 **Dell 14 DC14250 with RHEL Workstation working since 2026-06-17**
-- 🖥️ **Commodore64x PC with RHEL Server working since 2026-05-27**
+- 🖥️ **Commodore64x PC with RHEL Server working since 2025-10-28**
 - 🎮 **PS5 Pro working since 2024-11-07**
 - ⌨️ **Mega65 working since 2026-02-10**
 
