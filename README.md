@@ -1,7 +1,7 @@
 # Hi there, I'm Gianluca! 👋
 
 ## About Me
-- 👨 **Gianluca Cherubini a.k.a. *nightshifter75***
+- 👨 **Gianluca Cherubini a.k.a. *nightshifter75*** 🌃
 - 👶 **Born in 1975-01-11** 🍼
 - 💾 **Computer and videogames enthusiast since 1985** 🕹️
 - 🎵 **Guitar, Bass and Theorbo Player since 1990** 🎸
