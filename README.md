@@ -20,6 +20,7 @@
 - ⌨️ **Mega65 working since 2026-02-10**
 
 ## My Music Setup 🎸
+- **Makeev Foldable Custom 5 strings (Natural Wood) since 2026-08-30**
 - **Fender Classic Vibe Active 70s Jazz Bass 5 strings (Ocean Turquoise) since 2026-08-08**
 - **Fender FA-25N Alternative Series Classical Guitar since 2026-04-09**
 - **Fender Precision Electric Bass 4 strings (California Blue) since 2025-05-19**
