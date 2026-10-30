@@ -11,7 +11,6 @@
 - ☕ **Powered by Coffee** ☕ *(Day begins after the first espresso)*
 
 ## My Computer Setup 🤖
-- 💻 **MacBook Air 13" M5 working since 2026-03-20**
 - 🖥️ **MacStudio M1 Max working since 2026-05-05**
 - 🖥️ **MacStudio M5 Max working since 2026-09-22**
 - 💻 **Dell 14 DC14250 with RHEL Workstation working since 2026-06-17**
@@ -23,8 +22,6 @@
 - **Makeev Foldable Custom 5 strings (Natural Wood) since 2026-08-30**
 - **Fender Classic Vibe Active 70s Jazz Bass 5 strings (Ocean Turquoise) since 2026-08-08**
 - **Fender FA-25N Alternative Series Classical Guitar since 2026-04-09**
-- **Fender CB-60SCE Acoustic Bass 4 strings (Black) since 2023-09-23**
-- **Fender Precision Electric Bass 4 strings Short Scale (Dakota Red) since 2021-10-18**
 - **Cort GB35A Electric Bass 5 strings (Sunburst) since 2014-01-11**
 
 ## 📚 My Learning Journey
