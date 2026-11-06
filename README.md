@@ -28,7 +28,6 @@
 ## 📚 My Learning Journey
 - [ ] 📖 [Red Hat Enterprise Linux] - *In Progress*
 - [ ] 📖 [Ansible Automation Platform] - *In Progress*
-- [ ] 📖 [OpenShift Container Platform] - *Coming soon*
 - [ ] 📖 [Electric Bass] - *In Progress*
 
 *"Digital by choice, Musician by soul, Caffeine by necessity."*
