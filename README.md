@@ -22,7 +22,7 @@
 ## My Music Setup 🎸
 - **Makeev Foldable Custom 5 strings (Natural Wood) since 2026-08-30**
 - **Fender Classic Vibe Active 70s Jazz Bass 5 strings (Ocean Turquoise) since 2026-08-08**
-- **Fender FA-25N Alternative Series Classical Guitar since 2026-04-09**
+- **Fender FA-25N Alternative Series Classical Guitar (Natural Wood) since 2026-04-09**
 - **Cort GB35A Electric Bass 5 strings (Sunburst) since 2014-01-11**
 
 ## 📚 My Learning Journey
